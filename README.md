@@ -2,6 +2,18 @@
 
 This contains general guide lines for angular best practices.
 
+## Build & development
+
+Run `grunt` for building and `grunt serve` for preview.
+
+## Testing
+
+Running `grunt test` will run the unit tests with karma.
+
+
+references
+
+
 https://drive.google.com/drive/folders/0BxgtL8yFJbacQmpCc1NMV3d5dnM
 
 Best Practice Recommendations for Angular App Structure
